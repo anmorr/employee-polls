@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionCard matches the snapshot 1`] = `
+<QuestionCard
+  optionOneProps={
+    Object {
+      "onChange": [Function],
+      "value": "Go to LA",
+    }
+  }
+  optionTwoProps={
+    Object {
+      "onChange": [Function],
+      "value": "Go to MIA",
+    }
+  }
+  submitHandler={[Function]}
+/>
+`;
